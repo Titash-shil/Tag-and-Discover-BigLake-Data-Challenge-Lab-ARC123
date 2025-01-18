@@ -10,6 +10,9 @@
 ### Run the following Commands in CloudShell
 
 ```
+export REGION=
+```
+```
 curl -LO raw.githubusercontent.com/Titash-shil/Tag-and-Discover-BigLake-Data-Challenge-Lab-ARC123/refs/heads/main/qwiklab_explorers_arc123.sh
 
 sudo chmod +x qwiklab_explorers_arc123.sh
